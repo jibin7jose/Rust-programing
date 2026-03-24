@@ -1,13 +1,13 @@
 /*
 -----------------------------------------
-File Name: string_example.rs
-Description: Rust program demonstrating difference between string slice (&str) and String, and modifying String
+File Name: string_basic.rs
+Description: Rust program demonstrating string slice (&str) and String with modification
 Author: Jibin Jose
 -----------------------------------------
 
 Running Commands:
-rustc string_example.rs
-./string_example
+rustc string_basic.rs
+./string_basic
 
 Output:
 Name: Jibin
